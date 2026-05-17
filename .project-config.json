@@ -1,0 +1,35 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663207306828/SsABDvDZfEg3QJmpjKKDsH",
+    "access_key_id": "ASIAZV3A2ECZKFIATTKH",
+    "secret_access_key": "l4f1o8HH87IUU0OBh5AtbKN3ikEBXWmIxIK0fECs",
+    "session_token": "IQoJb3JpZ2luX2VjEOH//////////wEaCXVzLWVhc3QtMSJHMEUCIA4EIFzdSMJoWq/a5yuqRc9MiDmNbWvRb2ufCgpROV4/AiEA43fVlEeJHEC/hetQ4jU31jHJGuT7SX1t731Aupbal9gq/wMIqv//////////ARAEGgw2NjUzODYwOTg4NjYiDPbmFqfrQrRPwJPWCyrTA4WUEmG0QKmudFMVKAFfcQw/294EIXFiXTxxqg7CTnnrWtAhpUAy9/tUEdF/YlVEiJkHZzMl+Fl4AFUdi6Pf4G3L47+gWYwfD3cAD1/PJmgsd6siRx56ucymsZ0GJGgI4DrpG+UpOeL5X4t4bmhasIglJEHpQTfJYMnyDXkPs93PBTCw91vRseHhLp/C0pE5D2p35RwGbYgJbGe1CCg1uDnSKLJ4daCB3uZPYhr3kuti9LqmttovTAbFC+4YB75aAXbXQbO1QAL68jAwZZdwNnE+tiURisE0ZXhTmZeLYOxXk7VjvtNYm2KIVPiZTA+r3helgUHgSRFBEj8yMM+Y6qa2htDwXAUyHw6udoosVQEb0+pd2VFwxC9WXkF5gQS7iydwRvcdnZbC1gl88vZfMhl97TMeywnLMsGxjUav0ahoT4DBSDRlQA8/bLju+JOQlWPFn9oYNPcNPpE6yM36NiXdJNEKwNu5AKtG4JYmFZoJ+x/NNa0OosbkJgrejbQKUhEIRxZiBNa3RpTcFtn3WPAzPdeWez1D0YUWiN0kyvyKiWB4BvSQBJP7+3OpRbcNwci90kn9eZ4PJPJlkEsjbki0JFIZl31hDtadk4Bcp9k6XioCMMrjp9AGOp0BexHXfJmki5R5DSW9tYAuVh7aNYAOTXktfbuQJv0WuD1AfreauXeW3G2Rjpznj+8vNW7E8xPhJYsxydR+wOjSSZHE2MBeKUCA+Q/4hkc0jqKg8wTS8MtncZLm3W2913IsYs/EAN1OVYPEMyQvpvQdx88AgvETT31jV+0EEymx6ZtFeaUTNGUuK1rYPWp07m7YHPomHUDT7YlA260TSw==",
+    "expiration": "2026-05-18T04:50:18.000Z"
+  },
+  "name": "taskboard-app",
+  "path": "/home/ubuntu/taskboard-app",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "QJQAbXeyYdm7XnjfHFRw6G",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "Pj3ouJzBqvCSPL4zoXU2Nh",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "MD. MAHMUDUL HASAN 2104101",
+    "OWNER_OPEN_ID": "Sn4Ta7bN2396ovAJeqcwzu",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "7910a82f-0e62-4a6e-8aaa-d0e77d8acfc1",
+    "VITE_APP_ID": "SsABDvDZfEg3QJmpjKKDsH",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "TaskBoard",
+    "VITE_FRONTEND_FORGE_API_KEY": "8vCauNgEsDqZZfTWSuc9F5",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
