@@ -25,6 +25,50 @@ A modern, responsive Kanban-style task management application built with React, 
 - Semantic color tokens for consistent theming
 - IBM Plex Sans typography for professional appearance
 
+## Screenshots
+
+### Login Page
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m4hmudh4s44n/TaskBoard/main/Login.png" width="900"/>
+</p>
+
+---
+
+### Main Kanban Board
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m4hmudh4s44n/TaskBoard/main/Dashboard.png" width="900"/>
+</p>
+
+---
+
+### Dark Mode
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m4hmudh4s44n/TaskBoard/main/Dashboard_night_mode.png" width="900"/>
+</p>
+
+---
+
+### Create Task Modal
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m4hmudh4s44n/TaskBoard/main/Task_created.png" width="700"/>
+</p>
+
+---
+
+### Responsive View
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m4hmudh4s44n/TaskBoard/main/Task_InProgress.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m4hmudh4s44n/TaskBoard/main/Task_Completed.png" width="700"/>
+</p>
+
 ## Tech Stack
 
 | Layer | Technology |
@@ -316,4 +360,4 @@ For issues, questions, or suggestions, please open an issue on GitHub or contact
 
 ---
 
-**Built with ❤️ using React, Vite, and Tailwind CSS**
+**Built using React, Vite, and Tailwind CSS**
